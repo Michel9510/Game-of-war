@@ -39,7 +39,8 @@ beGame = () => {
       decks.playerOne.shift()
       decks.playerTwo.shift()
     } // loop for player 2, if player two deck is greater than player 1 = win
-    else if (decks.playerOne[0][0][0] < decks.playerTwo[0][0][0]) {
+    else if (desks,playerOne.length < desks.playertwo.length > 0) {
+      (decks.playerOne[0][0][0] < decks.playerTwo[0][0][0]) 
       decks.playerTwo.push(decks.playerOne[0], decks.playerTwo[0])
       decks.playerOne.shift()
       decks.playerTwo.shift()
