@@ -18,4 +18,4 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 
 The game will end when one player lose all the cards and the winner will have 52 cards on his possession.
 
-**the following docomment was created taking certain information from the following site. Source: bicyclecard
+**the following docomment was created taking certain information from the following site.** Source: bicyclecard
